@@ -7,8 +7,8 @@
   --fg-light: #ffffff;
   
   --a-main: #eeeeee;
-  --a-hover: var(--bg-light);
-  --a-click: var(--fg-light);
+  --a-hover: var(--fg-light);
+  --a-click: var(--bg-light);
   
   --font-heading: monospace;
   --font-main: sans-serif;
