@@ -17,7 +17,8 @@ body {
 header {
   font-family: var(--font-heading);
   color: var(--fg-bright);
-  margin: -2rem calc(0px - (50vw - 50%)) 2rem;
+  margin-left: -10rem;
+  margin-right: 10rem;
   background: var(--bg-dark);
   border-bottom: 1px solid var(--bg-light);
 }
