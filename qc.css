@@ -1,0 +1,14 @@
+body {
+  background: var(--bg-main);
+  color: var(--fg-main);
+  font-family: var(--font-main);
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+header {
+  font-family: var(--font-heading);
+  color: var(--fg-bright);
+  margin: -2rem calc(0px - (50vw - 50%)) 2rem;
+  background: var(--bg-dark);
+  border-bottom: 1px solid var(--bg-light);
+}
