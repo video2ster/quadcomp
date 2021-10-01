@@ -44,6 +44,6 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 0.25rem;
   margin: 0rem;
 }
-a { color: var(--a-main); }
+a { color: var(--a-main); text-decoration: none; }
 a:hover { color: var(--a-hover); }
 a:active { color: var(--a-click); } 
