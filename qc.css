@@ -33,6 +33,7 @@ header {
   margin-right: -10rem;
   background: var(--bg-dark);
   border-bottom: 1px solid var(--bg-light);
+  margin-bottom: 2rem;
 }
 nav {
   padding: 0.5rem;
