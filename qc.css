@@ -9,6 +9,7 @@
   --font-heading: monospace;
   --font-main: sans-serif;
 }
+
 body {
   background: var(--bg-main);
   color: var(--fg-main);
@@ -17,8 +18,9 @@ body {
   margin-left: 10rem;
   margin-right: 10rem;
 }
+
 header {
-  padding: 2rem;
+  padding: 1rem;
   padding-left: 12rem;
   padding-right: 12rem;
   font-family: var(--font-heading);
@@ -26,5 +28,11 @@ header {
   margin-left: -10rem;
   margin-right: -10rem;
   background: var(--bg-dark);
-  border-bottom: 2px solid var(--bg-light);
+  border-bottom: 1px solid var(--bg-light);
+}
+
+/* jesus christ default margins are painful to look at */
+h1, h2, h3, h4, h5, h6, p {
+  padding: 0px;
+  margin: 2px;
 }
