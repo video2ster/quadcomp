@@ -30,6 +30,17 @@ header {
   background: var(--bg-dark);
   border-bottom: 1px solid var(--bg-light);
 }
+nav {
+  padding: 0.5rem;
+  padding-left: 12rem;
+  padding-right: 12rem;
+  font-family: var(--font-heading);
+  color: var(--fg-light);
+  margin-left: -10rem;
+  margin-right: -10rem;
+  background: var(--bg-dark);
+  border-bottom: 1px solid var(--bg-light);
+}
 
 /* jesus christ default margins are painful to look at */
 h1, h2, h3, h4, h5, h6, p {
