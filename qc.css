@@ -6,6 +6,10 @@
   --fg-main: #f5f5f5;
   --fg-light: #ffffff;
   
+  --a-main: #eeeeee;
+  --a-hover: var(--bg-light);
+  --a-click: var(--fg-light);
+  
   --font-heading: monospace;
   --font-main: sans-serif;
 }
