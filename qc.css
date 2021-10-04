@@ -19,18 +19,18 @@ body {
   color: var(--fg-main);
   font-family: var(--font-main);
   margin: 0rem;
-  margin-left: 10rem;
-  margin-right: 10rem;
+  margin-left: 15rem;
+  margin-right: 15rem;
 }
 
 header, nav {
   padding: 1rem;
-  padding-left: 12rem;
-  padding-right: 12rem;
+  padding-left: 15rem;
+  padding-right: 15rem;
   font-family: var(--font-heading);
   color: var(--fg-light);
-  margin-left: -10rem;
-  margin-right: -10rem;
+  margin-left: -15rem;
+  margin-right: -15rem;
   background: var(--bg-dark);
   border-bottom: 1px solid var(--bg-light);
 }
